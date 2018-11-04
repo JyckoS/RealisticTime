@@ -1,0 +1,14 @@
+time_zone: "Asia/Jakarta"
+# You can find for TimeZones in:
+# https://garygregory.wordpress.com/2013/06/18/what-are-the-java-timezone-ids/
+
+enabled_worlds:
+- "survival"
+- "myveryrealisticworld"
+
+update:
+  interval_seconds: 5.5
+
+time_message:
+- "         &b&l&nTime"
+- "           &7%TIME%"

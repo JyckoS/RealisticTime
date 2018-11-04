@@ -1,0 +1,10 @@
+name: RealisticTime
+version: 1.0.0
+author: Gober
+main: com.gmail.JyckoSianjaya.RealTime.RealTime
+description: The Realistic Time!
+soft-depend: [Essentials]
+commands:
+   realtime:
+      usage: /<command>
+      aliases: [rtime,checktime,rt] 
