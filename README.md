@@ -4,13 +4,12 @@ RealisticTime is a lightweight plugin that synchronizes in-game time with real-w
 
 This allows Minecraft worlds to reflect the actual time of a chosen timezone, creating a more immersive and realistic experience for players.
 
-Compatible with servers using the :contentReference[oaicite:1]{index=1} platform.
 
 ---
 
 ## Features
 
-- Synchronize real-world time with :contentReference[oaicite:2]{index=2} in-game time
+- Synchronize real-world time with in-game time
 - Enable synchronization only for specific worlds
 - Asynchronous time updates
 - Lightweight and performance friendly
@@ -69,8 +68,7 @@ update-interval: 20
 ## Requirements
 
 - Java 8 or higher
-- A server running the :contentReference[oaicite:3]{index=3} API
-
+- Server with Spigot API
 ---
 
 ## Contact
